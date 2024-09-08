@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="automoucekeyboard:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/automoucekeyboard_jar</output-path>
+    <root id="archive" name="automoucekeyboard.jar">
+      <element id="module-output" name="automoucekeyboard" />
+    </root>
+  </artifact>
+</component>
